@@ -1,0 +1,14 @@
+[
+    {
+        "deviceId": "0001",
+        "deviceType": "min"
+    },
+    {
+        "deviceId": "0002",
+        "deviceType": "min"
+    },
+    {
+        "deviceId": "0003",
+        "deviceType": "max"
+    }
+]
